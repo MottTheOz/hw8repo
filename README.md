@@ -22,7 +22,7 @@ Its goal is to show these operations by calculating the matrix expression $D = A
 * `cpp_version/main_cpp.cpp`: The main test program for the C++ `Matrix` class. It initializes Matrix objects for A, B, and C, performs the required calculation $D = A + (3B)C^T$ using overloaded operators, and prints the resulting Matrix D.
 
 ## GETTING STARTED and RUNNING
-## FILES ARE CONTAINED WITHIN A ZIP FOLDER, PLEASE BE SURE TO EXTRACT FIRST (so all of the files can remain within their initial irectories for convienience)
+## FILES ARE CONTAINED WITHIN A ZIP FOLDER, PLEASE BE SURE TO EXTRACT FIRST (so all of the files can remain within their initial directories for convienience)
 
 **1. Compile both versions:**
 * To build both C and C++ versions:
